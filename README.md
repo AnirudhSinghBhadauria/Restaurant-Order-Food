@@ -4,9 +4,9 @@ Its a mock website which is a restaurant ordering website, a perfect solution fo
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/c6f4d0168840781.644182c920506.png"/>
 
 <p float="left" align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06b96e168840781.64440869970b3.jpg" width="300" />
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a4cc1a168840781.6444086996721.jpg" width="300" />
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bd6028168840781.6444086997cee.jpg" width="300" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06b96e168840781.64440869970b3.jpg" width="200" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a4cc1a168840781.6444086996721.jpg" width="200" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bd6028168840781.6444086997cee.jpg" width="200" />
 </p>
 
 ## Features
